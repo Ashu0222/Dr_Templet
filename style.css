@@ -1,0 +1,39 @@
+body {
+    background-image: url('image3.jpg');
+   
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+  }
+
+.button-container-div{
+    position: relative;
+    top: 500px;
+    left: 280px;
+    text-align: center;
+}
+.consultNow{
+    background-color: hsl(247, 95%, 34%); /* Green */
+    border: none;
+    color: rgb(238, 238, 243);
+    
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    height: 40px;
+    width: 20%;
+}
+h1{
+    position: relative;
+    top:300px;
+    left:40px;
+
+}
+p{
+    position: relative;
+    top:300px;
+    left:40px;
+}
